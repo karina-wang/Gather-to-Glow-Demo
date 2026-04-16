@@ -20,9 +20,9 @@ Findings from a pilot study with four families suggest that Gather-to-Glow has t
 This is a two-controller parent–child co-play game designed for shared play on a computer or family TV.
 
 - **Pictorial of our work:** [View pictorial](https://drive.google.com/file/d/1YQ-MM9sPiKmQlAIyKvt32g6DnYVbCAI3/view?usp=sharing)
+- **Game Demo Video Preview:** [Watch on YouTube](https://www.youtube.com/watch?v=J9GeQhT2NtI)
 - **Game Download for Windows:** [Download Windows build](https://github.com/karina-wang/Gather-to-Glow-Demo/releases/latest/download/Gather-to-Glow-Windows.zip)
 - **Game Download for macOS (Apple Silicon):** [Download macOS build](https://github.com/karina-wang/Gather-to-Glow-Demo/releases/latest/download/Gather-to-Glow-mac-AppleSilicon.zip)
-- **Game Demo Video Preview:** [Watch on YouTube](https://www.youtube.com/watch?v=J9GeQhT2NtI)
 
 ## Motivation
 
